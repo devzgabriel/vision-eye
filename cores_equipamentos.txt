@@ -1,0 +1,5 @@
+capacete - amarelo;
+oculos - vermelho;
+mascara - azul;
+luvas - verde;
+colete - laranja;
